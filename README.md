@@ -1,4 +1,4 @@
-# Temporary Repository for the paper PMNC
+# PatchMatch-Based Neighborhood Consensus for Semantic Correspondence
 To cite the paper PatchMatch-Based Neighborhood Consensus for Semantic Correspondence
 please use following bibtex:
 ```
@@ -10,3 +10,4 @@ please use following bibtex:
       year={2021}
 }
 ```
+The code will be released soon
